@@ -1,4 +1,4 @@
-// This program publishes randomly-generated velocity
+// This program publishesvelocity and time
 // messages for turtlesim.
 #include <ros/ros.h>
 #include <time.h>
@@ -14,7 +14,6 @@ int main(int argc, char **argv) {
   ros::Publisher pub = nh.advertise<geometry_msgs::Twist>(
     "turtle1/cmd_vel", 1000);
 
-  // Seed the random number generator.
   double distance;
   double velocity;
   double time;
