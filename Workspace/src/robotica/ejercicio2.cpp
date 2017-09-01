@@ -25,7 +25,7 @@ int main(int argc, char **argv) {
     cout << "Error: distancia menor a 2 veces la velocidad";
   }
   else{
-  time=2+distance/velocity;
+  time=distance/velocity;
   t0=ros::Time::now().toSec();
   // Loop at 10Hz until the node is shut down.
   ros::Rate rate(10);
