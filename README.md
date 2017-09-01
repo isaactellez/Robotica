@@ -1,5 +1,6 @@
 # Robotica
 Jorge Isaac Chang Ortega
+
 Humberto Isaac Tellez Benitez
 
 Practica 1
