@@ -1,0 +1,8 @@
+prefix=/home/robotica-ros/Documents/Workspace/devel
+
+Name: robotica
+Description: Description of robotica
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotica-ros/Documents/Workspace/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+robotica
+-DCATKIN_DEVEL_PREFIX=/home/robotica-ros/Documents/Workspace/devel -DCMAKE_INSTALL_PREFIX=/home/robotica-ros/Documents/Workspace/install -G Unix Makefiles
